@@ -1,6 +1,5 @@
 package com.aws.certification_practice.entity;
 
-import com.aws.certification_practice.constants.Role;
 import com.aws.certification_practice.constants.UserStatus;
 import jakarta.persistence.*;
 import lombok.*;

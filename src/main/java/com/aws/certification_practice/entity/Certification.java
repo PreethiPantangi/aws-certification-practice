@@ -1,6 +1,5 @@
 package com.aws.certification_practice.entity;
 
-import com.aws.certification_practice.constants.CertificationStatus;
 import com.aws.certification_practice.converter.BooleanToBitConverter;
 import jakarta.persistence.*;
 import lombok.*;

@@ -1,10 +1,8 @@
 package com.aws.certification_practice.dto;
 
-import com.aws.certification_practice.entity.Certification;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
-import lombok.NoArgsConstructor;
 
 import java.time.LocalDateTime;
 

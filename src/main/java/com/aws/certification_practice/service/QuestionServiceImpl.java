@@ -3,7 +3,6 @@ package com.aws.certification_practice.service;
 import com.aws.certification_practice.config.JWTTokenProvider;
 import com.aws.certification_practice.dto.QuestionDTO;
 import com.aws.certification_practice.dto.QuestionResponseDTO;
-import com.aws.certification_practice.dto.UserResponseDTO;
 import com.aws.certification_practice.entity.Certification;
 import com.aws.certification_practice.entity.Question;
 import com.aws.certification_practice.entity.User;

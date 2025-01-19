@@ -2,7 +2,6 @@ package com.aws.certification_practice.controller;
 
 import com.aws.certification_practice.dto.UserDTO;
 import com.aws.certification_practice.service.UserService;
-import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

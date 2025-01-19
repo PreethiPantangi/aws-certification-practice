@@ -1,6 +1,5 @@
 package com.aws.certification_practice.dto;
 
-import com.aws.certification_practice.entity.User;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

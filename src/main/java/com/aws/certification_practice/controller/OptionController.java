@@ -2,7 +2,6 @@ package com.aws.certification_practice.controller;
 
 import com.aws.certification_practice.dto.OptionDTO;
 import com.aws.certification_practice.service.OptionService;
-import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;

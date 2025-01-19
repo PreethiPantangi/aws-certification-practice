@@ -1,6 +1,5 @@
 package com.aws.certification_practice.config;
 
-import com.aws.certification_practice.constants.Role;
 import com.aws.certification_practice.service.CustomAccessDeniedHandlerService;
 import lombok.AllArgsConstructor;
 import org.springframework.context.annotation.Bean;
