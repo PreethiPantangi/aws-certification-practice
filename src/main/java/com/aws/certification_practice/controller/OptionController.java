@@ -23,7 +23,7 @@ public class OptionController {
         return optionService.addOption(optionDTOS);
     }
 
-    @PreAuthorize(("hasRole('ADMIN')"))
+    @PreAuthorize("hasRole('ADMIN')")
     @GetMapping
     public ResponseEntity<?> getOptions() throws IOException {
         return optionService.getOptions();
